@@ -1,0 +1,22 @@
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\bin\Debug\1.ödev.exe.config
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\bin\Debug\1.ödev.exe
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\bin\Debug\1.ödev.pdb
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\obj\Debug\1.ödev.csproj.AssemblyReference.cache
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\obj\Debug\1.ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\obj\Debug\_1.ödev.Form1.resources
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\obj\Debug\_1.ödev.Properties.Resources.resources
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\obj\Debug\1.ödev.csproj.GenerateResource.cache
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\obj\Debug\1.ödev.csproj.CoreCompileInputs.cache
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\obj\Debug\1.ödev.exe
+C:\Users\kocae\OneDrive\Masaüstü\1.ödev\1.ödev\obj\Debug\1.ödev.pdb
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\bin\Debug\1.ödev.exe.config
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\bin\Debug\1.ödev.exe
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\bin\Debug\1.ödev.pdb
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\obj\Debug\1.ödev.csproj.AssemblyReference.cache
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\obj\Debug\1.ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\obj\Debug\_1.ödev.Form1.resources
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\obj\Debug\_1.ödev.Properties.Resources.resources
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\obj\Debug\1.ödev.csproj.GenerateResource.cache
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\obj\Debug\1.ödev.csproj.CoreCompileInputs.cache
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\obj\Debug\1.ödev.exe
+C:\Users\dogau\OneDrive\Masaüstü\1.Ödev  Sayfa 38, 15. uygulama\1.ödev\obj\Debug\1.ödev.pdb
