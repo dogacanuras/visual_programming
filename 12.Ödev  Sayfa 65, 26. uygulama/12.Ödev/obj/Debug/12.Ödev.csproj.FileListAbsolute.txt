@@ -1,0 +1,11 @@
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\bin\Debug\12.Ödev.exe.config
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\bin\Debug\12.Ödev.exe
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\bin\Debug\12.Ödev.pdb
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\obj\Debug\12.Ödev.csproj.AssemblyReference.cache
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\obj\Debug\12.Ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\obj\Debug\_12.Ödev.Form1.resources
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\obj\Debug\_12.Ödev.Properties.Resources.resources
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\obj\Debug\12.Ödev.csproj.GenerateResource.cache
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\obj\Debug\12.Ödev.csproj.CoreCompileInputs.cache
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\obj\Debug\12.Ödev.exe
+C:\Users\kocae\OneDrive\Masaüstü\12.Ödev\12.Ödev\obj\Debug\12.Ödev.pdb
